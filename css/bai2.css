@@ -1,0 +1,95 @@
+@charset "utf-8";
+/* CSS Document */
+/*body{ margin: 20px 350px;}
+form{ line-height:1.8;
+background-color:#f5f5dd;
+padding:0px 0 10px 10px;
+width: 640px;
+}
+#email, #password{
+	float:left;
+	margin-right:10px;}
+#address{ clear:left;}
+.input1{ width:300px;}
+.input2{ width:618px;}
+#input3{ margin-left: 0px;
+margin-top:10px;}
+#city, #state,#zip{ float:left;
+margin-right:10px;}
+#checkme{ clear:left; }
+select{ width:210px;
+	height: 25px;}
+#input4{ width:80px;}
+a{ text-decoration:none;
+background-color:#0079fa;
+padding:6px;
+color:#FFF;
+font-size:15px;}
+#sigin{ margin-top:10px;}
+input, select{ border:1px solid #e0e4dc;
+height:20px}
+span{ position:absolute;
+top:251px;
+left:380px;}*/
+
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	line-height: 1.6;
+}
+form{
+	background-color:#ffc2a6;
+	width: 100%;
+	padding: 1%;
+	margin-top: 2%;
+}
+#email, #password,#city, #state, #zip{
+	float: left;
+}
+#address, #checkme{
+	clear: left;
+}
+#email, #city {
+	margin-right: 2%;
+}
+#zip{
+	margin-left: 1.5%;
+}
+
+#email,#password,#city, #div1{
+	width: 48%;}
+#address, #address2,{
+	width: 100%;
+}
+.input2 {
+	width: 98%;
+}
+.input1{
+	width: 100%;
+}
+#state{
+	width:32.7%;
+}
+#zip{
+	width: 13.8%;
+}
+select,#input4{
+	width: 100%;
+}
+#checkme #input3{
+	margin-left: 0px;
+}
+a{
+	text-decoration: none;
+	background-color: #0000ff;
+	padding: 5px;
+	color: #fff;
+	border-radius: 5px;
+}
+input {
+	height: 20px;
+}
+
+select{
+	height: 26px;
+}
